@@ -5,9 +5,9 @@
 Aplicació web desenvolupada com a projecte de 2n de DAW.
 
 ## Equip
-- Product Owner: Nom
-- Scrum Master: Nom
-- Developers: Nom, Nom, Nom
+- Product Owner: Joaquim
+- Scrum Master: Joaquim
+- Developers: Joaquim
 
 ## Tecnologies
 - Frontend: React / Vue / HTML CSS JS
